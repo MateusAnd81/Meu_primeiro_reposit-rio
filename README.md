@@ -1,4 +1,4 @@
-Construindo meu futuro: Tecnologia, Gestão e Liderança
+Meu primeiro repositório
 
 Escola Técnica Estadual de Taboão da Serra
 Unidade: 298
